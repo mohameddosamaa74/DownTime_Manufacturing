@@ -6,6 +6,7 @@ The dashboard will integrate downtime data recorded in Excel, which includes key
 By aggregating and visualizing these data points, the dashboard aims to offer real-time monitoring, in-depth trend analysis, and actionable insights that drive improvements in production efficiency and maintenance practices.
 
 **Dashboard Objectives:**
+
   •	Real-Time and Historical Analysis: Present both real-time and historical views of downtime events using the provided data fields. 
   •	Comprehensive Visualization: Develop detailed visualizations for each critical metric (e.g., downtime duration, number of stoppings, and total downtime). 
   •	Performance Reporting: Generate dynamic reports and KPIs that highlight trends across Product, Batch, and Operator performance. 
