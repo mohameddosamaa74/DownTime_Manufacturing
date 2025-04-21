@@ -58,5 +58,6 @@ By aggregating and visualizing these data points, the dashboard aims to offer **
    - Offers data-driven suggestions for enhancing production efficiency.  
 
 ---
+![image](https://github.com/user-attachments/assets/31fc9d8e-d7db-4735-bf1b-2ec5313dae9b)
 
 This README provides an overview of the project, its objectives, and its deliverables. The Power BI dashboard aims to empower decision-makers with actionable insights to improve factory operations.
