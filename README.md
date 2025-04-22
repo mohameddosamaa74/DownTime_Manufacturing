@@ -62,8 +62,8 @@ By aggregating and visualizing these data points, the dashboard aims to offer **
 ## Final Results
 
 ![Group 18](https://github.com/user-attachments/assets/73f7b429-fb0a-4996-ad5b-bf4aaeaa44fe)
-![Group 19](https://github.com/user-attachments/assets/0be90bbf-19ff-4642-bdfd-e38147462bbc)
 ![Group 21](https://github.com/user-attachments/assets/147d8a2f-62fb-40c9-ac31-06e100ec6635)
+![Group 19](https://github.com/user-attachments/assets/0be90bbf-19ff-4642-bdfd-e38147462bbc)
 ![Group 22](https://github.com/user-attachments/assets/edecd52b-51b9-4ad9-b618-94d92158d5e8)
 ![Group 20](https://github.com/user-attachments/assets/2b6b0ad5-de6a-4024-88cc-66fd6cc0e5d6)
 
