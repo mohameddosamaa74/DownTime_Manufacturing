@@ -13,7 +13,8 @@ The dashboard will integrate downtime data recorded in Excel, which includes key
 - Duration  
 - Number of stoppings  
 - Total time  
-- Size  
+- Size
+- Test GitHub  
 
 By aggregating and visualizing these data points, the dashboard aims to offer **real-time monitoring**, **in-depth trend analysis**, and **actionable insights** to drive improvements in production efficiency and maintenance practices.
 
